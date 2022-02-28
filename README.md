@@ -11,9 +11,9 @@ Further Comparison - This part is mostly based on different NLP techniques to se
 * AirBnB_NYC_Covid.html - html version of AirBnB_NYC_Covid with all cell ouptus
 * data - folder with all the used data
 * **This notebook can also be found in 
-  [google Colab](https://colab.research.google.com/drive/1RKqgln2vMzgmftMydCYC3YEKK_KVML-E?usp=sharing*)*
+  [google Colab](https://colab.research.google.com/drive/1RKqgln2vMzgmftMydCYC3YEKK_KVML-E?usp=sharing)**
 
-##Data Sources:<br>
+## Data Sources:<br>
 * AirBnB Listing Information from November 2018 - https://github.com/saranggupta94/airbnb
 * AirBnB Listing Information from June 2020 - https://github.com/ioslilyng/airbnb_nyc
 * AirBnB Listing Information and Reviews from 2021 - http://insideairbnb.com/get-the-data.html
