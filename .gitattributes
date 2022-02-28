@@ -1,3 +1,4 @@
 AirBnB_NYC_Covid.html filter=lfs diff=lfs merge=lfs -text
 data/listings-June2020.csv filter=lfs diff=lfs merge=lfs -text
 data/listings-November-2018.csv filter=lfs diff=lfs merge=lfs -text
+data/reviews-december-2021.csv.gz filter=lfs diff=lfs merge=lfs -text
